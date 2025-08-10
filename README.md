@@ -17,9 +17,9 @@ This Form Builder is a comprehensive web application that enables users to:
 ## 🛠️ Technologies Used
 
 ### **Frontend Framework & Core**
-- **React 19.1.1**: Core UI library for building component-based user interfaces
+- **React 18.2.0**: Core UI library for building component-based user interfaces
 - **TypeScript 4.9.5**: Type-safe JavaScript for better development experience and code reliability
-- **React Router DOM 7.8.0**: Client-side routing for single-page application navigation
+- **React Router DOM**: Client-side routing for single-page application navigation
 
 ### **State Management**
 - **Redux Toolkit 2.8.2**: Modern Redux for predictable state management
