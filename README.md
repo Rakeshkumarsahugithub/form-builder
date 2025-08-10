@@ -61,7 +61,6 @@ form-builder/
 │   │   ├── formBuilderSlice.ts     # Redux slice for form builder state
 │   │   └── store.ts                # Redux store configuration
 │   ├── utils/                 # Utility functions and helpers
-│   │   ├── demoFormData.ts         # Sample form data for demonstration
 │   │   ├── formUtils.ts            # Form-related utility functions
 │   │   └── validationUtils.ts      # Field validation logic and rules
 │   ├── App.tsx                # Main application component with routing
@@ -172,10 +171,6 @@ form-builder/
   - Custom validation messages
   - Real-time validation feedback
   - Cross-field validation support
-
-#### `src/utils/demoFormData.ts`
-- **Purpose**: Sample form data for demonstration and testing
-- **Functionality**: Provides pre-built forms to showcase application capabilities
 
 ## 🔧 How It Works
 
@@ -294,23 +289,6 @@ The application includes mobile-specific components and responsive design:
 - Responsive navigation
 - Touch-based drag-and-drop support
 
-## 🧪 Testing
-
-The project includes comprehensive testing setup:
-- Unit tests for components using React Testing Library
-- Integration tests for form functionality
-- Test coverage for utility functions
-- Automated testing with Jest
-
-## 🔮 Future Enhancements
-
-Potential areas for expansion:
-- Form submission handling and data collection
-- Advanced field types (file upload, signature, etc.)
-- Form templates and themes
-- Collaborative form editing
-- Form analytics and reporting
-- API integration for data persistence
 
 ---
 
