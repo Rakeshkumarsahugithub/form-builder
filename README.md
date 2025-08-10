@@ -230,7 +230,7 @@ The application's standout feature is its derived fields capability:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Rakeshkumarsahugithub/form-builder.git
    cd form-builder
    ```
 
